@@ -33,7 +33,7 @@ The analysis queries data across a relational schema consisting of multiple conn
 
 | Global Share (Pie Chart) | Top 5 breakdown (Bar Chart) |
 | :---: | :---: |
-| ![Pie Chart](visualizations/top_5_countries_pie.png) | ![Bar Chart](visualizations/top_5_countries_bar.png) |
+| ![Pie Chart](Visualizations/top_5_countries_pie.png) | ![Bar Chart](Visualizations/top_5_countries_bar.png) |
 
 
 
@@ -44,7 +44,7 @@ The analysis queries data across a relational schema consisting of multiple conn
 
 | Top 5 genres sold |
 | :---: |
-| ![Top 5 genres](visualizations/top_5_genres_bar.png) |
+| ![Top 5 genres](Visualizations/top_5_genres_bar.png) |
 
 ### 4. VIP Loyalty Program
 * **Question:** Who are our top 5 highest-spending customers?
@@ -54,7 +54,7 @@ The analysis queries data across a relational schema consisting of multiple conn
 
 | Top 5 Highest-Spending Customers |
 | :---: |
-| ![Top 5 genres](visualizations/top_5_customers_bar.png) |
+| ![Top 5 genres](Visualizations/top_5_customers_bar.png) |
 
 
 
@@ -65,11 +65,11 @@ The analysis queries data across a relational schema consisting of multiple conn
 
 | Top 10 Rock-Consuming Cities |
 | :---: |
-| ![Top 10 Rock Cities Chart](visualizations/top_10_rock_cities.png) |
+| ![Top 10 Rock Cities Chart](Visualizations/top_10_rock_cities.png) |
 
 | Top 10 cities  |
 | :---: |
-| ![Top 5 Cities](visualizations/top_10_rock_cities_bar.png) |
+| ![Top 5 Cities](Visualizations/top_10_rock_cities_bar.png) |
 
 
 ---
