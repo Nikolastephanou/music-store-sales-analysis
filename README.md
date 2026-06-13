@@ -24,7 +24,7 @@ The analysis queries data across a relational schema consisting of multiple conn
 
 | Top Sales Support Representatives |
 | :---: |
-| ![Top Performing Employee Chart](visualizations/employee_performance.png) |
+| ![Top Performing Employee Chart](Visualizations/employee_performance.png) |
 
 
 ### 2. Global Revenue by Country
