@@ -63,11 +63,7 @@ The analysis queries data across a relational schema consisting of multiple conn
 * **Insight:** **São Paulo, Berlin, and Paris** hold the top three slots, but expanding the view to a Top 10 reveals a massive, highly active consumer base across Europe and South America. 
 * **Actionable Business Strategy:** Instead of launching a singular event, the marketing and touring departments should utilize this Top 10 data to map out a **Global Promotional Tour**. Resources should be allocated toward localized ad campaigns and partnerships with local venues specifically within these ten high-affinity urban hubs to guarantee high ticket sales and merchandise turnover.
 
-| Top 10 Rock-Consuming Cities |
-| :---: |
-| ![Top 10 Rock Cities Chart](Visualizations/top_10_rock_cities.png) |
-
-| Top 10 cities  |
+| Top 10 Rock-Consuming Cities  |
 | :---: |
 | ![Top 5 Cities](Visualizations/top_10_rock_cities_bar.png) |
 
